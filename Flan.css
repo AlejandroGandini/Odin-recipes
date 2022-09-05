@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+h1 {
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    width: auto;
+    color:rgb(7, 201, 59);
+}
+h2 {
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    width: auto;
+    color:rgb(7, 188, 201);
+}
+.Lista {
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    width: auto;
+    color:rgb(140, 7, 201);
+}
+img {
+    height: auto;
+    width: auto;
+}
